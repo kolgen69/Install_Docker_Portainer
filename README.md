@@ -10,7 +10,7 @@ Components installed and configured:
 
 ## Files
 
-- `docker-platform-spec.md` - original specification
+
 - `install-docker-platform.sh` - interactive installation script
 
 ## What the Script Does
