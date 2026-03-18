@@ -168,3 +168,4 @@ main() {
 
 PORTAINER_PORT="${DEFAULT_PORTAINER_PORT}"
 main "$@"
+
